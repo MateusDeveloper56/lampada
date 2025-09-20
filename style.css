@@ -1,0 +1,13 @@
+body {
+    margin:0;display:flex;justify-content:center;height:100vh;
+}
+
+.botao {
+    cursor: pointer;
+}
+
+object svg {
+    transition:1s;
+}
+
+
